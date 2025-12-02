@@ -5,7 +5,6 @@
 Integrar reconocimiento de voz offline (Vosk) con Tkinter para controlar un semáforo industrial tricolor simulado.
 
 ## Comandos
-
 - "Enciende roja"
 - "Enciende amarilla"
 - "Enciende verde"
